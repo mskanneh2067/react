@@ -1,0 +1,20 @@
+body {
+    padding-top: 54px;
+}
+
+.bg-dark{
+  background-color: #122738;
+}
+
+.count{
+  background-color: #122738;
+  color: white;
+  text-align: center;
+  padding: 25px;
+  font-size: 7rem;
+}
+
+.counter{
+  padding: 5px;
+  text-align: center;
+}
